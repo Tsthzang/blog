@@ -16,6 +16,15 @@ git remote rm origin  删除远程库
 
 git clone git@github.com:Tsthzang/blog.git 克隆到本地，后面 为官网SSH连接（需要先初始化）
 
+<<<<<<< HEAD
+=======
+git branch  查看分支
+git branch  分支名  创建分支
+git checkout 分支名  切换分支
+git merge 分支名  合并指定分支到当前分支
+git branch -d 分支名 删除分支
+
+>>>>>>> dev
 复制公钥
 ssh-keygen -t rsa -C "1448870343@qq.com"
 三个回车
@@ -30,3 +39,4 @@ branch 分支
 master 主
 remote 远的
 origin 源头
+switch 转换
