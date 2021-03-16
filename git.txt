@@ -6,3 +6,10 @@ git log
 git reflog 
 git status
 git checkout -- readme.txt
+git rm readme.txt
+git remote add origin git@github.com:tsthzang/blog.git
+
+branch 分支
+master 主
+remote 远的
+origin 源头
