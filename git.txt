@@ -5,4 +5,4 @@ git reset --hard commit_id
 git log 
 git reflog 
 git status
-stupid
+git checkout -- readme.txt
