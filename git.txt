@@ -1,0 +1,6 @@
+git init
+git add .
+git commmit -m "init1"
+git reset --hard commit_id
+git log 
+git reflog 
