@@ -8,6 +8,11 @@ git status
 git checkout -- readme.txt
 git rm readme.txt
 git remote add origin git@github.com:tsthzang/blog.git
+git push -u origin master
+git push origin master
+git remote -v
+git remote rm origin
+
 
 branch ·ÖÖ§
 master Ö÷
